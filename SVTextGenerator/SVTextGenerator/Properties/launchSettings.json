@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SVTextGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"C:\\Users\\ChristopherTang\\Documents\\Coding\\sv_all.json\" -o \"C:\\Users\\ChristopherTang\\Documents\\Coding\\sv_reduced.json\""
+    }
+  }
+}
